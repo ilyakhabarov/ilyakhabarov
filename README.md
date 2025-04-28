@@ -7,7 +7,7 @@
 :desktop_computer: [qa.guru](https://github.com/ilyakhabarov/qa_guru_34_git) - учебный проект по обучению автоматизации тестирования на Java на QA.Guru
 
 
-### Стек:
+### Стек
 
 <div align="center">
 <a href="https://www.jetbrains.com/idea/"><img alt="InteliJ IDEA" height="50" src="images/icons/IntelliJ_IDEA.png" width="50"/></a>
@@ -29,7 +29,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyakhabarov&show_icons=true&bg_color=00000000)
 
 
-### Контакты:
+### Контакты
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:khabarov.ilya@gmail.com)](mailto:khabarov.ilya@gmail.com)
 [![Telegram](https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white)](https://t.me/khabarov_ilya)
 
