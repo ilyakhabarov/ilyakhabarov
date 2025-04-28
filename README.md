@@ -6,7 +6,7 @@
 
 :desktop_computer: [qa.guru](https://github.com/ilyakhabarov/qa_guru_34_git) - учебный проект по обучению автоматизации тестирования на Java на QA.Guru
 
-:desktop_computer: [qa.guru](https://github.com/ilyakhabarov/UseTechTest) - тестовый демо-проект для UseTech.ru
+:desktop_computer: [UseTech.ru](https://github.com/ilyakhabarov/UseTechTest) - тестовый демо-проект для UseTech.ru
 
 
 ### Стек
