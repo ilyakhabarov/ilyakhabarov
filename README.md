@@ -4,7 +4,9 @@
 
 ### Мои проекты
 
-:desktop_computer: [qa.guru](https://github.com/ilyakhabarov/qa_guru_34_git) - учебный проект по обучению автоматизации тестирования на Java на QA.Guru
+:desktop_computer: [qa.guru](https://github.com/ilyakhabarov/qa_guru_34_ui_tests) - учебный проект по обучению автоматизации тестирования на Java на QA.Guru, UI тесты
+
+:desktop_computer: [qa.guru](https://github.com/ilyakhabarov/qa_guru_34_api_tests) - учебный проект по обучению автоматизации тестирования на Java на QA.Guru, API тесты
 
 :desktop_computer: [UseTech.ru](https://github.com/ilyakhabarov/UseTechTest) - тестовый демо-проект для UseTech.ru
 
