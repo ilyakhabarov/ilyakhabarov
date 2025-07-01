@@ -8,6 +8,8 @@
 
 :desktop_computer: [Reqres.in](https://github.com/ilyakhabarov/qa_guru_34_diplom_api) - дипломный проект по тестированию API на Reqres.in для QA.Guru
 
+:desktop_computer: [Wikipedia](https://github.com/ilyakhabarov/qa_guru_34_mobile_tests) - дипломный проект по тестированию WEB приложения для QA.Guru 
+
 
 ### Стек
 
